@@ -6,3 +6,11 @@
 body{
     background-color: beige;
 }
+h1{
+    text-align: center;
+    font-weight: 300;
+}
+h2{
+    text-align: inherit;
+    font-style: italic;
+}
