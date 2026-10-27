@@ -15,8 +15,17 @@ h2{
     font-style: italic;
 }
 span{
-    font-size: medium;
+    font-size: large;
+}    
+p{
+    line-height: 1.5;
 }
 section{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+article{
+    font-weight: 400;
+}
+footer{
+     text-transform: lowercase; 
 }
